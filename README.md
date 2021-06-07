@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Igor-Gregori
+- 👋 Hi, I’m Igor Gregori
 - 👀 I’m interested in meet new technologies and new people
-- 🌱 I’m currently learning the javascript stack
+- 🌱 I’m currently learning the javascript stack, focusing on NodeJS
 - 💞️ I’m looking to collaborate on some cool company
 - 📫 igsilvacarlos@gmail.com
 
